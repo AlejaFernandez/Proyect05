@@ -1,2 +1,2 @@
 # Proyect05
-Proyecto para explicar la teoría de herencia y polimorfismo.
+Teoría y UML de herencia y polimorfismo.
